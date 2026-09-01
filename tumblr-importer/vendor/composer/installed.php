@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'wordpress/tumblr-importer',
-        'pretty_version' => '1.2',
-        'version' => '1.2.0.0',
-        'reference' => '85c78d55cbd5dfc26e812eed2db80e308f0eb811',
+        'pretty_version' => '1.3',
+        'version' => '1.3.0.0',
+        'reference' => 'b11eea4534d26c505f1c71cdb538f3a6b8a1e901',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'wordpress/tumblr-importer' => array(
-            'pretty_version' => '1.2',
-            'version' => '1.2.0.0',
-            'reference' => '85c78d55cbd5dfc26e812eed2db80e308f0eb811',
+            'pretty_version' => '1.3',
+            'version' => '1.3.0.0',
+            'reference' => 'b11eea4534d26c505f1c71cdb538f3a6b8a1e901',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
